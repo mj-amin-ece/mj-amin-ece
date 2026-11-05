@@ -19,6 +19,8 @@ I build the layer between LLM agents and the data they reason over. My goal is t
 | Project | What it is |
 |---|---|
 | [**ai-council**](https://github.com/mj-amin-ece/ai-council) | Ask Claude, ChatGPT and Gemini side by side, then let them review and improve each other's answers over several rounds. Runs locally on your existing subscriptions, with lean prompts and token and limit tracking. |
+| [**Task-offloading**](https://github.com/mj-amin-ece/Task-offloading) | M.Sc. thesis: a deep RL policy that decides whether metaverse tasks run on the device, the edge or the cloud, balancing soft/hard deadlines against device energy. Compares a central cloud agent with one agent per edge server. Includes an [English summary report](https://github.com/mj-amin-ece/Task-offloading/blob/main/docs/report.md). |
+| [**Lifeware-Challenge**](https://github.com/mj-amin-ece/Lifeware-Challenge) | Neural Wave AI Hackathon (team NAMA): reverse-engineered a legacy insurance system into deterministic Python. Generic "rule detective" tools (shallow decision trees, change-point detection, residual analysis and convention search) surfaced the hidden rules. |
 | [**GATN**](https://github.com/mj-amin-ece/GATN) | Graph attention transformer for multi-label retinal disease classification: EfficientNet features plus a label graph built from biomedical text embeddings. |
 | [**Deep-Learning**](https://github.com/mj-amin-ece/Deep-Learning) | PyTorch coursework, including **GAN-BERT** for machine-generated text detection (SemEval-2024), which beats a BERT baseline at every label fraction. |
 | [**RL**](https://github.com/mj-amin-ece/RL) | Deep RL: custom Gymnasium environments, n-step SARSA and Q-learning, DQN vs. Double DQN. |
@@ -30,9 +32,9 @@ Earlier work: [Adaptive Noise Reduction](https://github.com/mj-amin-ece/Adaptive
 ### 🎓 Background
 
 - **PhD**, Università della Svizzera italiana (USI), Lugano: agentic AI, RAG and caching *(current)*
-- **M.Sc. in Electrical Engineering (Communication Systems)**, Sharif University of Technology, 2025. Thesis: *Design a Task Offloading Policy for Computational Tasks in Metaverse*, a deep RL policy for end–edge–cloud systems comparing single-agent (cloud) and multi-agent (edge) designs
+- **M.Sc. in Electrical Engineering (Communication Systems)**, Sharif University of Technology, 2025. Thesis: [*Design a Task Offloading Policy for Computational Tasks in Metaverse*](https://github.com/mj-amin-ece/Task-offloading), a deep RL policy for end–edge–cloud systems comparing single-agent (cloud) and multi-agent (edge) designs
 - **B.Sc. in Electrical Engineering**, Amirkabir University of Technology (Tehran Polytechnic), 2021
-- **Neural Wave AI Hackathon** (Lugano), team NAMA: reverse-engineered a legacy insurance system's calculation rules into deterministic Python, matching the legacy outputs on 99.7–100 % of the training cases
+- [**Neural Wave AI Hackathon**](https://github.com/mj-amin-ece/Lifeware-Challenge) (Lugano), team NAMA: reverse-engineered a legacy insurance system's calculation rules into deterministic Python, matching the legacy outputs on 99.7–100 % of the training cases
 
 ### 🛠️ Tech stack
 
