@@ -50,4 +50,5 @@ Earlier work: [Adaptive Noise Reduction](https://github.com/mj-amin-ece/Adaptive
 
 ### 📫 Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Javad%20Amin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-javad-amin-1238771b3/)
 [![Email](https://img.shields.io/badge/aminm%40usi.ch-D14836?logo=gmail&logoColor=white)](mailto:aminm@usi.ch)
