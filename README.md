@@ -30,8 +30,8 @@ Earlier work: [Adaptive Noise Reduction](https://github.com/mj-amin-ece/Adaptive
 ### 🎓 Background
 
 - **PhD**, Università della Svizzera italiana (USI), Lugano: agentic AI, RAG and caching *(current)*
-- **M.Sc. in Communication Systems**, Sharif University of Technology. Thesis: deep reinforcement learning (DQN, Dueling DQN, C51) for task offloading in edge–cloud computing
-- **B.Sc.**, Amirkabir University of Technology (Tehran Polytechnic)
+- **M.Sc. in Electrical Engineering (Communication Systems)**, Sharif University of Technology, 2025. Thesis: *Design a Task Offloading Policy for Computational Tasks in Metaverse*, a deep RL policy for end–edge–cloud systems comparing single-agent (cloud) and multi-agent (edge) designs
+- **B.Sc. in Electrical Engineering**, Amirkabir University of Technology (Tehran Polytechnic), 2021
 - **Neural Wave AI Hackathon** (Lugano), team NAMA: reverse-engineered a legacy insurance system's calculation rules into deterministic Python, matching the legacy outputs on 99.7–100 % of the training cases
 
 ### 🛠️ Tech stack
